@@ -8,5 +8,5 @@ func main() {
 	fmt.Println("Kamal")
 
 	fmt.Println(len("Ajay"))
-	fmt.Println("Ajay"[1]) // still byte, fix in next learn: variable
+	fmt.Println("Ajay"[1]) // still byte, fix in next learn: Data Conversion
 }
