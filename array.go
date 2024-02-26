@@ -7,7 +7,7 @@ func main() {
 		"Muhamad",
 		"Ajay",
 		"Kamal",
-	} // you can replace [3] to [...] if you want push element to array more than 3
+	} // you can replace [3] to [...], automaticly insert the length of array
 	fmt.Println(names)
 	names[1] = "Zainul" // Change value
 	fmt.Println(names)
